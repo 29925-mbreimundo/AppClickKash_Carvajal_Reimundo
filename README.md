@@ -1,4 +1,4 @@
-﻿# ClickKash - Carvajal - Reimundo – Billetera Móvil Distribuida
+# ClickKash - Carvajal - Reimundo – Billetera Móvil Distribuida
 
 **ClickKash** es una plataforma de billetera móvil distribuida cliente-servidor, compuesta por una aplicación móvil nativa para Android (desarrollada con **Kotlin** y **Jetpack Compose**) y una API REST con servidor **WebSocket** en segundo plano (desarrollada en **Node.js** con **Express** y **SQLite** nativo).
 
